@@ -37,7 +37,7 @@ Follow these steps to install and set up the project.
 ### Clone the Repository
 
 ```bash
-git clone --recurse-submodules https://github.com/grownsandip/variant-analysis.git
+git clone --recurse-submodules https://github.com/grownsandip/Gene-deformity-detection
 ```
 
 ### Install Python
